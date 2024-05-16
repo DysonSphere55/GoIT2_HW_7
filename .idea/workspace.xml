@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac972bfb-8c22-48c2-94ab-d8df9bf699c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prefs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/find_longest_project.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/find_max_projects_client.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/find_max_salary_worker.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/find_youngest_eldest_workers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/init_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/populate_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/print_project_prices.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/database/DatabaseInitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/database/DatabasePopulateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/database/DatabaseQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/EldestWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/LongestProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/MaxProjectsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/MaxSalaryWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/ProjectPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/ProjectToWorkersRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/pojo/YoungestWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/prefs/Prefs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2gXUHSLyNvCxGNtE8JXXMIlxVFH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Deonisius Maximus/Documents/GitHub/GoIT2_HW_7",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Deonisius Maximus\Documents\GitHub\GoIT2_HW_7" />
+      <recent name="C:\Users\Deonisius Maximus\Documents\GitHub\GoIT2_HW_7\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="GoIT2_HW_7.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseInitService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goit.database.DatabaseInitService" />
+      <module name="GoIT2_HW_7.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabasePopulateService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goit.database.DatabasePopulateService" />
+      <module name="GoIT2_HW_7.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.DatabasePopulateService" />
+        <item itemvalue="Application.DatabaseInitService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac972bfb-8c22-48c2-94ab-d8df9bf699c6" name="Changes" comment="" />
+      <created>1715843330599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715843330599</updated>
+    </task>
+    <servers />
+  </component>
+</project>
